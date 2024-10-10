@@ -29,7 +29,7 @@ A full-stack College ERP (Enterprise Resource Planning) system built using the M
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/college-erp.git
+git clone https://github.com/novice1205/College-ERP.git
 cd college-erp
 ```
 

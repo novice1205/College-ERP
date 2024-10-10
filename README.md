@@ -1,6 +1,3 @@
-Here’s a draft for your `README.md` file for your "College ERP" MERN stack project:
-
----
 
 # College ERP
 
